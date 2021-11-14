@@ -1,4 +1,4 @@
-## Olá👋 eu sou a Guilherme Queiroz, CTO na OKAYDEV🧑🏻‍💻!
+## Olá👋 eu sou Guilherme Queiroz, CTO na OKAYDEV🧑🏻‍💻!
 <div align="center">
   <a href="https://github.com/guilhermee-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermee-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
