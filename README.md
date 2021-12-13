@@ -1,4 +1,5 @@
-## Olá👋 eu sou Guilherme Queiroz, Acadêmico do curso de Engenharia de Software pela Universidade; Técnico em Administração pelo ensino médio técnico integrado - EEEP Leonel de Moura Briozola.
+## Olá👋 eu sou Guilherme Queiroz, 
+Acadêmico do curso de Engenharia de Software pela Universidade; Técnico em Administração pelo ensino médio técnico integrado - EEEP Leonel de Moura Briozola.
 Programador Fullstack Júnior com expertise em Node.Js, NestJS, React.Js, React Native e Kotlin. Conhecimento em linguagem C++ e prototipagem com Arduino pelo curso de Robótica educacional realizado pela Universidade Federal do Ceará - UFC.
 Premiado internacionalmente pelo projeto Cortador de Grama Versátil com Plataforma de Rastreamento Solar (Hardware/Software e Robótica) no Foro Internacional de Ciência e Engenharia - FICI. Santigo/CHILE, 2019.
 
