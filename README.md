@@ -1,4 +1,11 @@
-## Olá👋 eu sou Guilherme Queiroz, CTO na OKAYDEV🧑🏻‍💻!
+## Olá👋 eu sou Guilherme Queiroz, Acadêmico do curso de Engenharia de Software pela Universidade; Técnico em Administração pelo ensino médio técnico integrado - EEEP Leonel de Moura Briozola.
+Programador Fullstack Júnior com expertise em Node.Js, NestJS, React.Js, React Native e Kotlin. Conhecimento em linguagem C++ e prototipagem com Arduino pelo curso de Robótica educacional realizado pela Universidade Federal do Ceará - UFC.
+Premiado internacionalmente pelo projeto Cortador de Grama Versátil com Plataforma de Rastreamento Solar (Hardware/Software e Robótica) no Foro Internacional de Ciência e Engenharia - FICI. Santigo/CHILE, 2019.
+
+Professor de Robótica Educacional - básico ao avançado. 
+Bolsista pela Prefeitura de Fortaleza com Projeto do Bolsa Jovem
+Estagiário de inovação tecnológica do projeto Ninho de Inovação do Instituto do Câncer do Ceará - ICC / BIOLABS
+Experiência em Sistema de Comunicação e Arquivamento de Imagens em softwares para plataformas PACS - Estágio na empresa Labpacs.🧑🏻‍💻!
 <div align="center">
   <a href="https://github.com/guilhermee-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermee-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
