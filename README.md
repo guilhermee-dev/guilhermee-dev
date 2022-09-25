@@ -1,7 +1,7 @@
 ## Hello👋 I'm Guilherme Queiroz, 
 Currently I'm working with React Native to make Mobile applications for Android and iOS
 
-The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. purple_heart
+The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives.
 
 <div align="center">
   <a href="https://github.com/guilhermee-dev">
